@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Simple Service Example</string>
+    <string name="b1">Start Service</string>
+    <string name="t1">Message from Service</string>
+</resources>
